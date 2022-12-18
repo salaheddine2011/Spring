@@ -8,6 +8,7 @@ package spring.demo.annotations;
  *
  * @author acer swift 3
  */
+
 public interface FortuneService {
     public String getFortune();
 }
